@@ -4,4 +4,10 @@ services:
     build: ./app
     container_name: "Flask_App"
     ports:
-      - "5000:5000"
+      - "5000:5000" 
+    
+    app2:
+    build: ./Flask_Jinja_Tutorial/flask-jinja-tutorial
+    container_name: "Flask_App2"
+    ports:
+      - "5001:5001"
