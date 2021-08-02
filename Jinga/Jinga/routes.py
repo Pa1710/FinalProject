@@ -10,15 +10,15 @@ app = Flask(__name__)
 def home():
     """Landing page."""
     nav = [
-        {'name': 'Home', 'url': 'https://example.com/1'},
-        {'name': 'About', 'url': 'https://example.com/2'},
-        {'name': 'Pics', 'url': 'https://example.com/3'}
+        {'name': 'Landing Page', 'url': 'https://example.com/1'},
+        {'name': 'More Info', 'url': 'https://example.com/2'},
+        {'name': 'Pictures', 'url': 'https://example.com/3'}
     ]
     return render_template(
         'home.html',
         nav=nav,
-        title="Jinja Demo Site",
-        description="Smarter page templates with Flask & Jinja.",
+        title="Demo Website build in Jinga",
+        description="Smarter page templates created with Flask and Jinga",
         status={'active': True}
     )
 
