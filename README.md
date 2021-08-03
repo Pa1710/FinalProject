@@ -6,16 +6,22 @@ Here are some snapshots from the Project
 
 # App
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/app%20(2).png)
+
 # Logic
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Logic.png)
+
 # Jinga
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Jinga(1).jpg)
 
 # WTForms
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Wtfform.jpg)
 
-# Sign Up Page
+# Sign Up
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Contact.jpg)
+
+# Contact
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Signup%20page.jpg)
+
 # Manage Session
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Manage%20Session.png)
 
