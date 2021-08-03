@@ -10,20 +10,30 @@ Here are some snapshots from the Project
 # Cookies
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Cookies.jpg)
 
-#Flasklogin
+# Flasklogin
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Flasklogin.png)
 
-#Jinga
+# Jinga
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Jinga(1).jpg)
 
-#SQLalchemy
+# SQLalchemy
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/SQlalchemy.jpg)
 
-#WTForms
+# WTForms
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Wtfform.jpg)
 
-#Blueprint
+# Blueprint
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Blueprint(1).jpg)
+
+# Routing
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Routing.jpg)
+
+# Flask Configuration
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Configuration.jpg)
+
+# Sign Up Page
+
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Signup page.jpg)
 
 These screenshots can also be found in the screenshot folder
 
