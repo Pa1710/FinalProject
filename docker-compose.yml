@@ -13,7 +13,7 @@ services:
       - "5001:5001"
       
     app3:
-    build: ./WTForms/wtforms
+    build: ./WTForms/WTforms
     container_name: "Flask_App3"
     ports:
       - "5002:5002"
