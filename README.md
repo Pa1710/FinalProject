@@ -15,6 +15,8 @@ Here are some snapshots from the Project
 
 # Sign Up Page
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Signup%20page.jpg)
+# Manage Session
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Manage%20Session.png)
 
 # Routing
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Routing.jpg)
