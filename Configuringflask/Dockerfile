@@ -4,7 +4,7 @@ EXPOSE 5004
 
 WORKDIR /Configuringflask
 
-COPY requirements.txt /Configure_Flask
+COPY requirements.txt /ConfiguringFlask
 RUN pip install  -r requirements.txt --upgrade pip
 
 ENV SECRET_KEY=GDtfDCFYjD
