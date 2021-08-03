@@ -52,3 +52,8 @@ services:
     container_name: "Flask_App10"
     ports:
       - "5009:5009"
+      app11:
+    build: ./Flask_Session/flask-session
+    container_name: "Flask_App11"
+    ports:
+      - "5010:5010"
