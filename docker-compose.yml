@@ -22,3 +22,8 @@ services:
     container_name: "Flask_App4"
     ports:
       - "5003:5003"
+     app5:
+    build: ./Configuringflask
+    container_name: "Flask_App5"
+    ports:
+      - "5004:5004"
