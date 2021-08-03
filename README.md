@@ -29,7 +29,7 @@ Here are some snapshots from the Project
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Routing.jpg)
 
 # Flask Configuration
-![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Configuration.jpg)
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Configuration.png)
 
 # Sign Up Page
 
