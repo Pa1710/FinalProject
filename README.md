@@ -28,9 +28,6 @@ Here are some snapshots from the Project
 # SQLalchemy
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/SQlalchemy.jpg)
 
-# Flasklogin
-![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Flasklogin.png)
-
 # Flask Configuration
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Configuration.png)
 
