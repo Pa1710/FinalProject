@@ -47,3 +47,8 @@ services:
     container_name: "Flask_App9"
     ports:
       - "5008:5008"
+       app10:
+    build: ./FlaskLogin/flask-login
+    container_name: "Flask_App10"
+    ports:
+      - "5009:5009"
