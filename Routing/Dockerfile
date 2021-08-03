@@ -2,11 +2,11 @@ FROM python:3.9
 
 EXPOSE 5003
 
-WORKDIR /Routing_Flask
+WORKDIR /Routing
 
-COPY requirements.txt /Routing_Flask
+COPY requirements.txt /Routing
 RUN pip install  -r requirements.txt --upgrade pip
 
-COPY . /Routing_Flask
+COPY . /Routing
 
 CMD python app.py
