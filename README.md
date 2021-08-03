@@ -6,7 +6,8 @@ Here are some snapshots from the Project
 
 # App
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/app%20(2).png)
-
+# Logic
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Logic.png)
 # Jinga
 ![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Jinga(1).jpg)
 
