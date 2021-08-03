@@ -7,7 +7,13 @@ services:
       - "5000:5000" 
     
     app2:
-    build: ./Flask_Jinja_Tutorial/flask-jinja-tutorial
+    build: ./Jinga/jinga
     container_name: "Flask_App2"
     ports:
       - "5001:5001"
+      
+    app3:
+    build: ./WTForms/wtforms
+    container_name: "Flask_App3"
+    ports:
+      - "5002:5002"
