@@ -1,11 +1,11 @@
 FROM python:3.9
 EXPOSE 5002
 
-WORKDIR /flask-wtforms-tutorial
+WORKDIR /WTForms
 
-COPY requirements.txt /flask-wtforms-tutorial
+COPY requirements.txt /WTForms
 RUN pip install  -r requirements.txt --upgrade pip
 
-COPY . /flask-wtforms-tutorial
+COPY . /WTForms
 
 CMD python routes.py
