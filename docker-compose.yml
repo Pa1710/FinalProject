@@ -7,7 +7,7 @@ services:
       - "5000:5000" 
     
     app2:
-    build: ./Jinga/jinga
+    build: ./Jinga/Jinga
     container_name: "Flask_App2"
     ports:
       - "5001:5001"
