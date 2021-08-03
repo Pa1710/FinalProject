@@ -33,7 +33,7 @@ Here are some snapshots from the Project
 
 # Sign Up Page
 
-![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Signup page.jpg)
+![alt text](https://github.com/Pa1710/FinalProject/blob/main/Screenshots/Signup%20page.jpg)
 
 These screenshots can also be found in the screenshot folder
 
